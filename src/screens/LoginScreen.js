@@ -84,19 +84,11 @@ const Styles = StyleSheet.create({
         height: 200,
         resizeMode: 'contain'
     },
-    inputLogin: {
+    inputLogin, inputSenha: {
         marginTop: 20,
         height: 40,
         backgroundColor: 'transparent',
         borderColor: '#1ed760',
-        borderWidth: 1,
-        borderRadius: 10
-    },
-    inputSenha: {
-        backgroundColor: 'transparent',
-        marginTop: 20,
-        height: 40,
-        borderColor: '#1eD760',
         borderWidth: 1,
         borderRadius: 10
     },
