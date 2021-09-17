@@ -1,9 +1,9 @@
 # spotify-clone
 
-##📑Objetivo: 
+## 📑Objetivo: 
 - A intenção desse projeto é práticar as skills técnicas utilizando react native, com o mínimo possível de auxilios visuais.
 
-##🚀 Frameworks
+## 🚀 Frameworks
 - React Native
 - Expo
 - React Native Paper
